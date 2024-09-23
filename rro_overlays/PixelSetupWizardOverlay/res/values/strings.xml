@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="bc_welcome_message">Welcome to SigmaDroid</string>
-    <string name="welcome_message">Welcome to ^1</string>
-    <string name="deferred_setup_wizard_title">Finish setting up SigmaDroid</string>
-    <string name="device_name">SigmaDroid</string>
+    <!-- <string name="bc_welcome_message">Welcome to SigmaDroid</string> -->
+    <string name="welcome_message">Welcome to SigmaDroid</string>
+    <!-- <string name="portal_setup_optional_actions_title">{DEVICE_TYPE, select, PHONE {Customize Pixel} TABLET {Customize tablet} other {Customize device} }</string> -->
+    <!-- <string name="portal_setup_progress_start_description">You can continue using your Pixel</string> -->
+    <!-- <string name="portal_setup_title">Make the most of your Pixel</string> -->
+    <!-- <string name="portal_setup_title_with_username">{0}, make the most of your Pixel</string> -->
+    <!-- <string name="deferred_setup_wizard_title">Finish setting up SigmaDroid</string> -->
+    <!-- <string name="device_name">SigmaDroid</string> -->
     <string name="setup_wizard_title">SigmaDroid Setup</string>
     <string name="demo_device_admin_component_name">com.google.android.retaildemo/.DemoDeviceAdminReceiver</string>
     <string name="demo_device_admin_download_location">https://g.co/pixel/retaildemo</string>
