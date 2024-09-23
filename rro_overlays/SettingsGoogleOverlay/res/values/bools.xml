@@ -40,4 +40,10 @@
 
     <!--Whether help links are defined. -->
     <bool name="config_has_help">true</bool>
+
+    <bool name="config_show_reverse_charging">true</bool>
+
+    <bool name="config_adaptive_alert_vibration_enabled">true</bool>
+
+    <bool name="config_show_adaptive_connectivity">true</bool>
 </resources>
