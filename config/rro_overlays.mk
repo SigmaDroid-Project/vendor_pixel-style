@@ -19,6 +19,7 @@ PRODUCT_PACKAGES += \
     CellBroadcastReceiverOverlay \
     CellBroadcastServiceOverlay \
     DMServiceOverlay \
+    GmsDeviceConfiguratorOverlay \
     GoogleConfigOverlay \
     GoogleDeviceLockControllerOverlay \
     GoogleDialerConfOverlay \
