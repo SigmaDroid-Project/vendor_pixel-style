@@ -19,5 +19,5 @@
     package="com.google.android.networkstack.overlay">
     <overlay android:isStatic="true" android:targetName="NetworkStackConfig" android:targetPackage="com.google.android.networkstack"/>
 
-    <application android:hasCode="false" android:label="NetworkStackOverlay"/>
+    <application android:hasCode="false" android:label="GoogleNetworkStackOverlay"/>
 </manifest>
